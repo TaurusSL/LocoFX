@@ -34,6 +34,14 @@ Thumbs.db
 *.bak
 *.tmp
 
+# Ignore Maven Wrapper files
+mvnw
+mvnw.cmd
+.mvn/
+
+# Ignore Maven project file
+pom.xml
+
 # Ensure source files are tracked
 !src/
 !src/**/*.java" > .gitignore
