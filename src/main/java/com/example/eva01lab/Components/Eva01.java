@@ -21,6 +21,7 @@ public class Eva01 {
 
     public void redraw(int newRenderMode) {
         this.renderMode = newRenderMode;
+        this.modelGroup.getTransforms().clear();
         this.mainGroup.getChildren().remove(this.modelGroup);
         this.modelGroup = new GroupExtended();
         this.init();
