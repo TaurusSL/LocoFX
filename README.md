@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="700" alt="Суцільний режим" src="https://github.com/user-attachments/assets/bd003f06-7638-4f49-8a3e-59bd7d809562" />
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/bd003f06-7638-4f49-8a3e-59bd7d809562" />
 </p>
 
 <p align="center">
-  <img width="600" alt="Каркасний режим" src="https://github.com/user-attachments/assets/262f423d-952d-460b-9cd6-e5f7e3b0c371" />
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/4981f75b-774b-4a68-af9f-e870d99252ce" />
 </p>
 
 <p align="center">
-  <img width="600" alt="Змішаний режим" src="https://github.com/user-attachments/assets/e41d40cc-493c-43a0-97f3-d2fee9e34df7" />
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/8d489a05-66aa-41c4-b5e0-0800432923a7" />
 </p>
 
 
