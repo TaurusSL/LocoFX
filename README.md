@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" alt="Суцільний режим" src="https://github.com/user-attachments/assets/88d870f4-96b6-4611-b6ac-9e102b2211dd" />
+  <img width="700" alt="Суцільний режим" src="https://github.com/user-attachments/assets/bd003f06-7638-4f49-8a3e-59bd7d809562" />
 </p>
 
 <p align="center">
