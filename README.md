@@ -11,6 +11,6 @@
 </p>
 
 
-# №4-6 Лабораторна робота.
+# Software for objects in Java.
 
-> Проєкт демонструє побудову перспективної проекції, афінні перетворення (обертання, масштабування, переміщення) та алгоритми видалення невидимих поверхонь на прикладі 3D моделі паровозика.
+> The project demonstrates the construction of a perspective projection, affine transformations (rotation, scaling, translation), and algorithms for removing invisible surfaces using the example of a 3D model of a train.
